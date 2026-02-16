@@ -3,7 +3,7 @@ ansible_password: DevOps321
 
 MONGODB_HOST : mongodb-dev.luckyy.shop
 CATALOGUE_HOST : catalogue-dev.luckyy.shop
-REDIS_HOST : redis.dev.luckyy.shop
+REDIS_HOST : redis-dev.luckyy.shop
 USER_HOST : user-dev.luckyy.shop
 CART_HOST : cart-dev.luckyy.shop
 MYSQL_HOST : mysql-dev.luckyy.shop
