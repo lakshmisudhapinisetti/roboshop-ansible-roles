@@ -1,2 +1,11 @@
 ansible_user: ec2-user
 ansible_password: DevOps321
+MONGODB_HOST=mongodb-dev.luckyy.shop
+CATALOGUE_HOST=catalogue-dev.luckyy.shop
+REDIS_HOST=redis-dev.luckyy.shop
+USER_HOST=user-dev.luckyy.shop
+CART_HOST=cart-dev.luckyy.shop
+MYSQL_HOST=mysql-dev.luckyy.shop
+SHIPPING_HOST=shipping-dev.luckyy.shop
+RABBITMQ_HOST=rabbitmq-dev.luckyy.shop
+PAYMENT_HOST=payment-dev.luckyy.shop
