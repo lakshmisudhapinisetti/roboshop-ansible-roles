@@ -43,11 +43,11 @@
   
 - name: install dependencies
   ansible.builtin.command: mvn clean package
-    args:
+  args:
       chdir: /app
 - name: install dependencies
   ansible.builtin.command: mv target/shipping-1.0.jar shipping.jar 
-    args:
+  args:
       chdir: /app
 
 - name: create systemctl service
