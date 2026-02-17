@@ -9,7 +9,7 @@
   tags: 
   - deployment
   #ansible.builtin.import_role:
-  ansible.builtin.import_role:
+  ansible.builtin.include_role:
     name: common
     tasks_from: nodejs-setup.yaml
 
